@@ -54,7 +54,7 @@ python todo.py
  ├── tasks.txt      # Auto-created file to store tasks
  └── README.md      # Project Documentation
 
-📝 Sample Output
+##📝 Sample Output
 
 ==== TO-DO LIST MENU ====
 1. View Tasks
@@ -63,7 +63,7 @@ python todo.py
 4. Exit
 Choose an option:
 
-🧠 What I Learned
+##🧠 What I Learned
 
 How to handle files in Python (read, write)
 
@@ -73,12 +73,12 @@ How to create menus and take user input
 
 How to structure a Python project cleanly
 
-📜 License
+##📜 License
 
 This project is for learning and internship training purposes.
 Feel free to modify and use it.
 
-⭐ Author
+##⭐ Author
 
 Dharani K V
 Backend Developer
